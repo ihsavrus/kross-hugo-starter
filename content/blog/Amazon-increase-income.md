@@ -2,7 +2,7 @@
 title: CTC v/s Take home salary
 date: 2022-12-29T23:44:34+05:30
 image: "/images/blog/post-3.jpg"
-description: This is meta description.
+description: ''
 
 ---
 Have you ever noticed that the CTC that was offered to you during the hiring process and the amount you are getting in-hand has a considerable difference?
