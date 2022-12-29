@@ -28,7 +28,7 @@ email = "jain99551@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/logo.png"
-phone = ""
+phone = "No Number"
 theme_color = "#8B4000"
 [params.contact]
 enable = true
