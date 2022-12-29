@@ -1,7 +1,7 @@
 ---
 title: CTC v/s Take home salary
 date: 2022-12-29T23:44:34+05:30
-image: "/images/blog/post-3.jpg"
+image: "/images/blog/post-6.jpg"
 description: ''
 
 ---
