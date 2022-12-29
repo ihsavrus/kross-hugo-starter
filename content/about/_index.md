@@ -2,7 +2,7 @@
 title: About
 date: 2022-12-24T11:44:34+05:30
 description: ''
-author_image: images/about/img_20220215_204935-1.jpg
+author_image: i/images/img_20220215_204935-1.jpg
 author_signature: ''
 
 ---
