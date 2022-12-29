@@ -58,7 +58,7 @@ education:
     year: "2013"
     academy: Jaipuriya Vidhalaya
 service:
-  enable: true
+  enable: false
   title: Services
   item:
   - title: UI Design
@@ -77,7 +77,7 @@ service:
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: false
 portfolio:
-  enable: true
+  enable: false
   title: Portfolio
   item_show: "5"
 testimonial:
