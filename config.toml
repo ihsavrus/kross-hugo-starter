@@ -20,7 +20,7 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "India"
+address = "India."
 author = "Urvashi Sogani"
 copyright = "No Copyright"
 description = ""
