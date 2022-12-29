@@ -3,7 +3,6 @@ title: Amazon increase income 1.5 Million
 date: 2022-12-29T23:44:34+05:30
 image: images/blog/post-4.jpg
 description: ''
-draft: true
 
 ---
 **Employee stock options** give a firm’s employees the right to purchase its shares at a pre-determined price and within a specific time period. They are part of compensation plans and used to retain employees and senior executives.These shares are purchased by employees at price below market price, or in other words, a discounted price.  
