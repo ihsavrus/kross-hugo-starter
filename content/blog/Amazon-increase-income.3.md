@@ -71,7 +71,7 @@ The company should make the following disclosures in the explanatory statement a
 
 ##### Is ESOP beneficial for employees?
 
-ESOPs are an important form of remuneration for employees. It helps to maintain the liquidity of a startup and it acts as a reward for loyalty for the employees. Startups have found ESOPs to be an attractive motivation for joining a company besides the in-hand salary. ESOPs encourage a feeling of ownership in the employee, especially when they can’t afford very high compensation packages. 
+ESOPs are an important form of remuneration for employees. It helps to maintain the liquidity of a startup and it acts as a reward for loyalty for the employees. Startups have found ESOPs to be an attractive motivation for joining a company besides the in-hand salary. ESOPs encourage a feeling of ownership in the employee, especially when they can’t afford very high compensation packages.
 
 ##### Who is considered as a permanent employee for the issue of ESOP?
 
