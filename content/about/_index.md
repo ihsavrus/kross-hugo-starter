@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2019-05-12T12:14:34.000+06:00
+date: 2022-12-24T11:44:34+05:30
 description: ''
 author_image: images/about/author.jpg
 author_signature: ''
