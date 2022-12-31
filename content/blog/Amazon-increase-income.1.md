@@ -1,6 +1,6 @@
 ---
 title: Expectation - Low or High. Who decides?
-date: 2022-12-28T23:44:34+05:30
+date: 2022-12-27T23:44:34+05:30
 image: "/images/squarequick_2020102705327117.png"
 description: This is meta description.
 
