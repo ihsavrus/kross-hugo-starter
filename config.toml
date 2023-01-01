@@ -52,6 +52,9 @@ enable = true
 preloader = ""
 [[params.social]]
 URL = "#"
+icon = ""
+[[params.social]]
+URL = "#"
 icon = "ti-facebook"
 [[params.social]]
 URL = "#"
