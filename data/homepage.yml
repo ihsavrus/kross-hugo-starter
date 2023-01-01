@@ -13,10 +13,10 @@ about:
     label: know more
     URL: about
 skill:
-  enable: false
-  title: Skills
+  enable: true
+  title: Certificate Courses - Completed
   item:
-  - title: Excel - Intermediate level
+  - title: Excel - Intermediate level (From Udemy and Personal Experience)
     progress: 50%
     color: "#fdb157"
   - title: Logo Design
