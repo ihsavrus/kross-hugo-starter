@@ -29,7 +29,7 @@ skill:
     progress: 70%
     color: "#ffbcaa"
 experience:
-  enable: false
+  enable: true
   title: Experience
   item:
   - logo: images/experience/icon-1.png
@@ -37,9 +37,9 @@ experience:
     company: Price Waterhouse Copper
     duration: Jan 2020 - Oct 2021
   - logo: images/experience/icon-2.png
-    title: UX & UI Designer
-    company: AUGMEDIX
-    duration: Mar 2009 - Aug 2014
+    title: Executive
+    company: Earnst & Young
+    duration: Nov 2021 - Present
   - logo: images/experience/icon-1.png
     title: Senior UI Designer
     company: THEMEFISHER
