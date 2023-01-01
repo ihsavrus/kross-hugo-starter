@@ -16,8 +16,8 @@ skill:
   enable: false
   title: Skills
   item:
-  - title: Web Design
-    progress: 90%
+  - title: Excel - Intermediate level
+    progress: 50%
     color: "#fdb157"
   - title: Logo Design
     progress: 60%
