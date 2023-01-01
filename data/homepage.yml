@@ -40,10 +40,6 @@ experience:
     title: Executive
     company: Earnst & Young
     duration: Nov 2021 - Present
-  - logo: images/experience/icon-1.png
-    title: Senior UI Designer
-    company: THEMEFISHER
-    duration: Sep 2014 - Present
 education:
   enable: true
   title: Education
