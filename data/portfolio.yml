@@ -1,13 +1,7 @@
 ---
 item:
-- image: images/portfolio/item-1.png
-  project_url: http://examplesite.com
-  category: design
-- image: images/portfolio/item-2.png
-  project_url: "#"
-  category: branding
 - image: images/portfolio/item-3.png
-  project_url: http://examplesite.com
+  project_url: urvashi.netlify.app
   category: illustration
 - image: images/portfolio/item-5.png
   project_url: "#"
