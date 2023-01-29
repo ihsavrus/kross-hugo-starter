@@ -3,11 +3,7 @@ banner:
   title: Hi! I’m <br> Urvashi Sogani <br> Chartered Accountant
 about:
   enable: true
-  content: My website is totally about my work which I had learned at my workplace
-    so that anyone can access it and get an idea of how things have been done in a
-    life of Chartered Accountants working in the corporate world. Although no client
-    information has been shared on this website. Apart from this, I also express my
-    opinion on various personal topics. (No hard feelings attached to any personnel)
+  content: This website is wok of personal workspace.
   button:
     enable: true
     label: know more
