@@ -1,7 +1,6 @@
 +++
 date = 2023-01-28T18:30:00Z
 description = ""
-draft = true
 image = "/images/yellow-flower.jpg"
 title = "Trust Your Journey"
 
